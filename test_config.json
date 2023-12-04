@@ -1,5 +1,5 @@
 {
-    "sleep_seconds": 3600,
+    "sleep_seconds": 30,
     "total_images": 10,
     "images": [
         "https://raw.githubusercontent.com/8perezm/epaper_gallery/main/epaper_gallery/0.bmp",
