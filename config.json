@@ -1,0 +1,11 @@
+{
+    "sleep_seconds": 15,
+    "total_images": 5,
+    "images": [
+        "https://raw.githubusercontent.com/8perezm/epaper_gallery/main/epaper_gallery/0.bmp",
+        "https://raw.githubusercontent.com/8perezm/epaper_gallery/main/epaper_gallery/1.bmp",
+        "https://raw.githubusercontent.com/8perezm/epaper_gallery/main/epaper_gallery/2.bmp",
+        "https://raw.githubusercontent.com/8perezm/epaper_gallery/main/epaper_gallery/3.bmp",
+        "https://raw.githubusercontent.com/8perezm/epaper_gallery/main/epaper_gallery/4.bmp"
+    ]
+}
