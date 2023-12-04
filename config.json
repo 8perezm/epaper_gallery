@@ -1,6 +1,6 @@
 {
-    "sleep_seconds": 10,
-    "total_images": 3,
+    "sleep_seconds": 3600,
+    "total_images": 10,
     "images": [
         "https://raw.githubusercontent.com/8perezm/epaper_gallery/main/epaper_gallery/0.bmp",
         "https://raw.githubusercontent.com/8perezm/epaper_gallery/main/epaper_gallery/1.bmp",
